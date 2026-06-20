@@ -1,4 +1,4 @@
-# Arduino Elevator System
+# Arduino Elevator System  C/C++
 
 
 Arduino-based elevator control system developed to simulate the operation of a multi-floor elevator using buttons, switches, an LCD display and motor direction control.
