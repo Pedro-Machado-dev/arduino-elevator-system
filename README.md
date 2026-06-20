@@ -1,7 +1,7 @@
 # Arduino Elevator System
 
 <p align="center">
-  <img src="LINK_DIRETO_DO_GIF_AQUI" alt="Elevator animation" width="420">
+  <img src="https://algum-site.com/elevator-animation.gif" alt="Elevator animation" width="420">
 </p>
 
 Arduino-based elevator control system developed to simulate the operation of a multi-floor elevator using buttons, switches, an LCD display and motor direction control.
