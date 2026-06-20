@@ -1,6 +1,11 @@
 # Arduino Elevator System
 
+<p align="center">
+  <img src="./assets/elevator-animation.gif" alt="Elevator animation" width="420">
+</p>
+
 Arduino-based elevator control system developed to simulate the operation of a multi-floor elevator using buttons, switches, an LCD display and motor direction control.
+
 
 The project uses push buttons to simulate floor calls and switches to simulate the current floor position of the elevator. The LCD display shows the current floor and movement status, while the motor output pins represent the elevator moving up or down.
 
