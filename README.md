@@ -24,7 +24,7 @@ The project uses push buttons to simulate floor calls and switches to simulate t
 
 ## Circuit
 
-![Arduino elevator circuit](./assets/elevator-circuit.jpeg)
+![Arduino elevator circuit](./elevator-circuit.jpeg)
 
 ## How it works
 
